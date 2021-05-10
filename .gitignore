@@ -1,0 +1,8 @@
+# Ignore binary files without extension
+*
+!*.*
+!*/
+
+# Ignore .o and .hi files
+*.hi
+*.o
