@@ -17,7 +17,7 @@ Each program at the start of execution has field with `#` positioned in the cent
 ...........
 ```
 
-You can move `#` across the 11x11 field and that's virtually all you can do. If `#` crosses some boundary
+You can move `#` across the 11x11 field and that's virtually all you can do. If `#` crosses some boundary, it gets moved to the opposite side of the field (just like in the snake game).
 
 ## Available commands in `.#`:
 
